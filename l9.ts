@@ -7,7 +7,7 @@ let d: string[] = ['sddssad', 'sadsadsd'];
 let e: any = 3;
 e = 'asdasdasd';
 
-function test(a: string): string | number {
+function l9(a: string): string | number {
     return ''
 }
 
